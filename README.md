@@ -132,3 +132,8 @@ A minimal Next.js blog that automatically pulls posts from your Substack RSS fee
                                                                                                  - ## Support
                                                                                                 
                                                                                                  - Questions? Check out Next.js documentation: https://nextjs.org/docs
+
+
+---
+
+**Live Blog**: https://substack-blog.vercel.app/
